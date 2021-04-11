@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi I'm Thanwa, Welcome to my github profile 👋
 
-<!--
-**topoko123/topoko123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄   I'm Thanwa Chaleonyos, I'm passionate about programming and database design.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Back-End, Devops, Django, JavaScript & more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- Information Technology 
+
+## Developed by me
+- 📌 Abdul Registration API ( Back-End ) , Python ( FastAPI Framework ), Database ( MongoDB )
+- ✏️ News notification system for students ( Full-Stack ) , PHP, CSS ( Bootstrap ), JavaScript, Database ( Xampp )
+- 💣 Library access system ( Desktop-App ), C# (.NET Framework & Entity Framework), Database ( PostgreSQL )
+
+
+
+
