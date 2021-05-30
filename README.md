@@ -12,6 +12,11 @@
 - ✏️ News notification system for students ( Full-Stack ) , PHP, CSS ( Bootstrap ), JavaScript, Database ( Xampp )
 - 💣 Library access system ( Desktop-App ), C# (.NET Framework & Entity Framework), Database ( PostgreSQL )
 
+## Database
+- 📌 Xampp (MySQL)
+- 📌 PgAdmin & PSQL Shell (PostgreSQL)
+- 📌 MongoDB (NoSQL)
+
 
 
 
