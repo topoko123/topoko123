@@ -17,6 +17,9 @@
 - 📌 PgAdmin & PSQL Shell (PostgreSQL)
 - 📌 MongoDB (NoSQL)
 
+## Platform as a Service (PaaS)
+- 💣 Heroku
+
 
 
 
