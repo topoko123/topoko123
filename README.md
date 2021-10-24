@@ -2,7 +2,11 @@
 
 😄   I'm Thanwa Chaleonyos, I'm passionate about programming and database design.
 
-- 🌱 I’m currently learning Back-End, Devops, Django, JavaScript & more
+- 🌱 I’m currently learning Back-End, Devops & more
+
+## programming language
+- Golang, Python, Javascript, .NET Core, PHP, Node.js
+- Gin, FastAPI, Django, .NET MVC Core, Laravel, Express
 
 ## Education
 - Information Technology 
